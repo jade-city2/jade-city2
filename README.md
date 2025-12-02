@@ -2,7 +2,6 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on any web development thing
-- 📫 How to reach me: t.a.s.e.r@outlook.com
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: Siberias hole in the ground is getting bigger
 
